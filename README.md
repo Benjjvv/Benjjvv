@@ -2,7 +2,7 @@
 ## 💬 About me 💬
 I'm a 22 y.o. Computer Science student currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
 
-## ⚡Topics⚡
+## 🔰Topics🔰
 Some of the topics I'm interested in:
 
 - 📶 Web development
