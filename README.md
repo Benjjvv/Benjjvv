@@ -24,7 +24,7 @@ Some of the topics I'm interested in:
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-<--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchometalero&theme=default&show_icons=true&hide_border=true&layout=compact)!-->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chunchometalero&theme=default&show_icons=true&hide_border=true&layout=compact)-->
 
 ## 💾 Tools 💾
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
